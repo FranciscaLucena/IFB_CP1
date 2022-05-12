@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>PFB no Parque</title>
+	<meta charset="utf-8"/>
+	<meta name="author" content="Alessandra Ferro"/>
+	<meta name="description" content="Pratique atividade física ao ar 
+	livre usando a FitBall."/>
+	<meta name="keywords" content="
+	pfb,progressivefitball,parque,parque da cidade,saúde"/>
+	<!-- comentários -->
+	</head>
+		<body bgcolor="#f0f0f0" link="#009688" alink="#009688" vlink="#009688">
+			<img src="img/parque3.jfif" width="100%" height="" alt="Imagem de um trecho de um parque, como piso de madeira" />
+			
+			<center>
+				<font face="Aliquam" size="4">
+					<b><a href="#">HOME</a>&nbsp;&nbsp;
+					<a href="#">BENEFÍCIOS</a>&nbsp;&nbsp;
+					<a href="#">MODALIDADES</a>&nbsp;&nbsp;
+					<a href="#">TREINOS</a>&nbsp;&nbsp;
+					<a href="#">AGENDAMENTOS</a></b>
+				</font>
+			</center>
+
+			<hr>
+
+			<font face="Aliquam" size="5" color="#3F51B5">
+				<h1 align="center">PFB no Parque</h1>
+			</font>
+				<font face="Avenir" size="4" color="
+				#3F51B5">
+					<p align="justify"> Lorem ipsum dolor sit amet, <strong>consectetur </strong>adipiscing elit. Amet, porta sodales faucibus id congue. Sapien, imperdiet dui quam morbi nibh facilisi blandit. Lobortis mattis rhoncus, placerat adipiscing. Elementum sed in aliquam mattis mauris laoreet in. Tincidunt arcu, aliquam proin pellentesque proin arcu, purus malesuada. Molestie id pulvinar egestas eros, vitae lorem rhoncus. Nunc, amet tempor consequat <b>nulla eget consectetur</b>. 			
+					</p>
+
+					<p align="justif"> Risus, ac gravida eu sed amet id vitae. Integer vel dictum <em>curabitur nunc</em> id elit dictum. Metus quam tempor, neque consectetur augue ipsum gravida. Faucibus commodo nam vel, aliquet non. <u>Aliquam</u>, ut ipsum aliquam nulla ut arcu. Pulvinar sed quam nunc sit mattis ultrices adipiscing aliquet.		
+					</p>
+					
+				<hr/>
+			
+			<font face="Aliquam" size="5" color="#3F51B5">
+					<h2>Benefícios</h2>
+			</font>
+				<p>A prática do ProgressiveFitBall ao aar livre pode proporcionar:</p><	<ul type="">
+					<li>Atividade física de forma lúdica</li>
+					<li>Melhora da qualidade física</li>
+					<li>Atendimento personalizado</li>
+					<li>Treinos em qualquer lugar</li>
+					<li>Contato com a natureza</li>
+				</ul>
+			</font>
+			<hr>
+			<font face="Aliquam" size="5" color="#3F51B5">
+					<h2>Modalidades</h2>
+			</font>
+				<p>O método cota com as modalidaddes Básico, Intermediário e Avançado,
+				além do AcroPFB, Freestyle e Calistenia.</p><
+			</font>
+
+	</body>
+</html>
